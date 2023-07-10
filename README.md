@@ -11,7 +11,7 @@ Projeyi başlattığınızda;
 
 - Admin Kısmı Girişi İçin 
 
-	* Kullanıcı Adı: 'meteyagano'
+	* Kullanıcı Adı: 'veyselust'
 	* Şifre             : '25252'
 
 - Hasta Girişi İçin
