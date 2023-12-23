@@ -24,3 +24,6 @@ Projeyi başlattığınızda;
 	* Kullanıcı Adı : 'abayrak'
 	* Şifre               :  '74688'
 Şeklinde Giriş yapabilirsiniz. Daha Fazlası İçin Veritabanındaki Giriş Tablolarına Bakınız.
+
+### Aşağıdaki Linkten Proje ile İlgili Videoyu İzleyebilirsiniz.
+* https://youtu.be/SLlbom-wdy8?si=0Cw_kok1SrkG2Ie3
